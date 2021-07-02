@@ -1,0 +1,20 @@
+{
+  "name": "node-core-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiderMath/Node-Core-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "SpiderMath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpiderMath/Node-Core-Tutorial/issues"
+  },
+  "homepage": "https://github.com/SpiderMath/Node-Core-Tutorial#readme",
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
